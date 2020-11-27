@@ -14,4 +14,11 @@ public class Country {
         this.title = title;
         this.zipCode = zipCode;
     }
+
+    // Alt + Insert -> toString()
+    @Override
+    public String toString() {
+        return "title='" + title + '\'' +
+                ", zipCode=" + zipCode;
+    }
 }

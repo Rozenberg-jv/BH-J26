@@ -8,7 +8,7 @@ public class PersonExample {
 
     public static void main(String[] args) {
 
-        Person person1 = new Person();
+        /*Person person1 = new Person();
 
         System.out.println(person1.name);
         System.out.println(person1);
@@ -16,8 +16,8 @@ public class PersonExample {
         person1.name = "Vasily";
         person1.age = 30;
         person1.country = new Country("Belarus", 220113);
-/*        person1.country.title = "Belarus";
-        person1.country.zipCode = 220113;*/
+*//*        person1.country.title = "Belarus";
+        person1.country.zipCode = 220113;*//*
         person1.sex = Sex.MALE;
 
         // --
@@ -52,11 +52,11 @@ public class PersonExample {
         person2.eat(q);
 
         System.out.println();
-        /*System.out.println(person1.age);
+        *//*System.out.println(person1.age);
         person1.growOld();
-        System.out.println(person1.age);*/
+        System.out.println(person1.age);*//*
 
-        System.out.println(person1.age);
+//        System.out.println(person1.age);
         System.out.println(1 + 2);
         System.out.println(person1.growOld());
         int agePerson = person1.growOld();
@@ -64,12 +64,17 @@ public class PersonExample {
         person1.growOld();
         person1.growOld();
         System.out.println(agePerson);
-        System.out.println(person2.age);
+//        System.out.println(person2.age);
 
         System.out.println();
 
         Person person3
-                = new Person("Igor", 55, new Country("Ukrain", 123), Sex.MALE);
+                = new Person("Igor", 55, new Country("Ukraine", 123), Sex.MALE);
 
+        person3.walk();
+        person3.walk(5, "field");
+        person3.walk("forest", 1);
+
+        System.out.println(person3.toString());*/
     }
 }
