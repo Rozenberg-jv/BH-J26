@@ -36,5 +36,7 @@ public class Task1 {
         for (int i = 0; i < 10; i++)
             System.out.println(low + rand.nextInt(high - low + 1));
 
+        System.out.println();
+
     }
 }
