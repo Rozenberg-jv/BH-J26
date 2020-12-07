@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="208d76e6-7e2c-4ccd-a718-6ca76624a98c" name="Default Changelist" comment="">
+    <list default="true" id="208d76e6-7e2c-4ccd-a718-6ca76624a98c" name="Default Changelist" comment="6th hw">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -13,94 +13,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/by/belhard/j26/lessons/lesson07/InheritanceExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="36" column="26" lean-forward="true" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/by/belhard/j26/lessons/lesson07/ArrayListExamples.java">
+        <entry file="file://$PROJECT_DIR$/src/by/belhard/j26/homeworks/hw7/task5/Task5.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+            <state relative-caret-position="408">
+              <caret line="30" column="22" lean-forward="true" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/by/belhard/j26/lessons/lesson07/Person.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="25" lean-forward="true" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-              <folding>
-                <element signature="e#362#363#0" expanded="true" />
-                <element signature="e#388#389#0" expanded="true" />
-                <element signature="e#419#420#0" expanded="true" />
-                <element signature="e#446#447#0" expanded="true" />
-                <element signature="e#486#487#0" expanded="true" />
-                <element signature="e#518#519#0" expanded="true" />
-                <element signature="e#545#546#0" expanded="true" />
-                <element signature="e#571#572#0" expanded="true" />
-                <element signature="e#883#884#0" expanded="true" />
-                <element signature="e#929#930#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/by/belhard/j26/lessons/lesson07/Workable.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="26" lean-forward="true" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
-              <folding>
-                <element signature="e#149#150#0" expanded="true" />
-                <element signature="e#185#186#0" expanded="true" />
-                <element signature="e#352#353#0" expanded="true" />
-                <element signature="e#388#389#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/by/belhard/j26/lessons/lesson07/Worker.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
-              <folding>
-                <element signature="e#286#287#0" expanded="true" />
-                <element signature="e#352#353#0" expanded="true" />
-                <element signature="e#196#197#0" expanded="true" />
-                <element signature="e#223#224#0" expanded="true" />
-                <element signature="e#263#264#0" expanded="true" />
-                <element signature="e#295#296#0" expanded="true" />
-                <element signature="e#935#936#0" expanded="true" />
-                <element signature="e#976#977#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/by/belhard/j26/lessons/lesson07/Manager.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
-              <folding>
-                <element signature="e#121#122#0" expanded="true" />
-                <element signature="e#157#158#0" expanded="true" />
-                <element signature="e#211#212#0" expanded="true" />
-                <element signature="e#245#246#0" expanded="true" />
-                <element signature="e#296#297#0" expanded="true" />
-                <element signature="e#342#343#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -112,6 +31,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="FxmlFile" />
+        <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -131,29 +52,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/by/belhard/j26/lessons/lesson02/Ex.java" />
-        <option value="$PROJECT_DIR$/src/by/belhard/j26/lessons/lesson02/SecondLessonExample.java" />
-        <option value="$PROJECT_DIR$/src/by/belhard/j26/lessons/lesson02/ConstructionsExample.java" />
-        <option value="$PROJECT_DIR$/src/by/belhard/j26/homeworks/hw2/Task2.java" />
-        <option value="$PROJECT_DIR$/src/by/belhard/j26/homeworks/hw2/Task3.java" />
-        <option value="$PROJECT_DIR$/src/by/belhard/j26/homeworks/hw2/Task4.java" />
-        <option value="$PROJECT_DIR$/src/by/belhard/j26/homeworks/hw2/Task4_1.java" />
-        <option value="$PROJECT_DIR$/src/by/belhard/j26/homeworks/hw2/Task4_2.java" />
-        <option value="$PROJECT_DIR$/src/by/belhard/j26/homeworks/hw2/Task5.java" />
-        <option value="$PROJECT_DIR$/src/by/belhard/j26/homeworks/hw2/Task6.java" />
-        <option value="$PROJECT_DIR$/src/by/belhard/j26/lessons/lesson03/ArraysExample.java" />
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/src/by/belhard/j26/homeworks/hw3/Task1.java" />
-        <option value="$PROJECT_DIR$/src/by/belhard/j26/homeworks/hw3/Task2.java" />
-        <option value="$PROJECT_DIR$/src/by/belhard/j26/homeworks/hw3/Task3.java" />
-        <option value="$PROJECT_DIR$/src/by/belhard/j26/lessons/lesson04/Country.java" />
-        <option value="$PROJECT_DIR$/src/by/belhard/j26/lessons/lesson04/Sex.java" />
-        <option value="$PROJECT_DIR$/src/by/belhard/j26/lessons/lesson04/Person.java" />
-        <option value="$PROJECT_DIR$/src/by/belhard/j26/lessons/lesson04/ClassExample.java" />
-        <option value="$PROJECT_DIR$/src/by/belhard/j26/homeworks/hw4/Task3.java" />
-        <option value="$PROJECT_DIR$/src/by/belhard/j26/homeworks/hw4/ArraysCalculator.java" />
-        <option value="$PROJECT_DIR$/src/by/belhard/j26/lessons/lesson05/StringExample.java" />
-        <option value="$PROJECT_DIR$/src/by/belhard/j26/lessons/lesson04/entities/Country.java" />
         <option value="$PROJECT_DIR$/src/by/belhard/j26/lessons/lesson04/PersonExample.java" />
         <option value="$PROJECT_DIR$/src/by/belhard/j26/lessons/lesson04/entities/PackagePrivateExample.java" />
         <option value="$PROJECT_DIR$/src/by/belhard/j26/lessons/lesson05/Lesson05Example.java" />
@@ -173,6 +71,38 @@
         <option value="$PROJECT_DIR$/src/by/belhard/j26/lessons/lesson07/Person.java" />
         <option value="$PROJECT_DIR$/src/by/belhard/j26/lessons/lesson07/Workable.java" />
         <option value="$PROJECT_DIR$/src/by/belhard/j26/lessons/lesson07/ArrayListExamples.java" />
+        <option value="$PROJECT_DIR$/src/by/belhard/j26/homeworks/hw6/task1/Calculator.java" />
+        <option value="$PROJECT_DIR$/src/by/belhard/j26/homeworks/hw6/task1/Task1.java" />
+        <option value="$PROJECT_DIR$/src/by/belhard/j26/homeworks/hw6/task2/Multiplicationtable.java" />
+        <option value="$PROJECT_DIR$/src/by/belhard/j26/homeworks/hw6/task2/MultiplicationTable.java" />
+        <option value="$PROJECT_DIR$/src/by/belhard/j26/homeworks/hw6/task3/StringStorage.java" />
+        <option value="$PROJECT_DIR$/src/by/belhard/j26/homeworks/hw6/task3/Task3.java" />
+        <option value="$PROJECT_DIR$/src/by/belhard/j26/homeworks/hw7/task1/BookFormat.java" />
+        <option value="$PROJECT_DIR$/src/by/belhard/j26/homeworks/hw7/task1/Author.java" />
+        <option value="$PROJECT_DIR$/src/by/belhard/j26/homeworks/hw7/task1/Book.java" />
+        <option value="$PROJECT_DIR$/src/by/belhard/j26/homeworks/hw7/task1/Cartoteka.java" />
+        <option value="$PROJECT_DIR$/src/by/belhard/j26/homeworks/hw7/task1/Task1.java" />
+        <option value="$PROJECT_DIR$/src/by/belhard/j26/homeworks/hw7/task2/Pet.java" />
+        <option value="$PROJECT_DIR$/src/by/belhard/j26/homeworks/hw7/task2/AbstractPet.java" />
+        <option value="$PROJECT_DIR$/src/by/belhard/j26/homeworks/hw7/task2/Fish.java" />
+        <option value="$PROJECT_DIR$/src/by/belhard/j26/homeworks/hw7/task2/Cat.java" />
+        <option value="$PROJECT_DIR$/src/by/belhard/j26/homeworks/hw7/task2/Dog.java" />
+        <option value="$PROJECT_DIR$/src/by/belhard/j26/homeworks/hw7/task2/pets/AbstractPet.java" />
+        <option value="$PROJECT_DIR$/src/by/belhard/j26/homeworks/hw7/task2/pets/Cat.java" />
+        <option value="$PROJECT_DIR$/src/by/belhard/j26/homeworks/hw7/task2/pets/Dog.java" />
+        <option value="$PROJECT_DIR$/src/by/belhard/j26/homeworks/hw7/task2/pets/Fish.java" />
+        <option value="$PROJECT_DIR$/src/by/belhard/j26/homeworks/hw7/task2/Task2.java" />
+        <option value="$PROJECT_DIR$/src/by/belhard/j26/homeworks/hw7/task2/Master.java" />
+        <option value="$PROJECT_DIR$/src/by/belhard/j26/homeworks/hw7/task3/shapes/Figure.java" />
+        <option value="$PROJECT_DIR$/src/by/belhard/j26/homeworks/hw7/task3/CalculationUtils.java" />
+        <option value="$PROJECT_DIR$/src/by/belhard/j26/homeworks/hw7/task3/shapes/Square.java" />
+        <option value="$PROJECT_DIR$/src/by/belhard/j26/homeworks/hw7/task3/shapes/Rectangle.java" />
+        <option value="$PROJECT_DIR$/src/by/belhard/j26/homeworks/hw7/task3/shapes/Circle.java" />
+        <option value="$PROJECT_DIR$/src/by/belhard/j26/homeworks/hw7/task3/Task3.java" />
+        <option value="$PROJECT_DIR$/src/by/belhard/j26/homeworks/hw7/task3/Task3a.java" />
+        <option value="$PROJECT_DIR$/src/by/belhard/j26/homeworks/hw7/task4/Person.java" />
+        <option value="$PROJECT_DIR$/src/by/belhard/j26/homeworks/hw7/task4/Task4.java" />
+        <option value="$PROJECT_DIR$/src/by/belhard/j26/homeworks/hw7/task5/Task5.java" />
       </list>
     </option>
   </component>
@@ -187,47 +117,49 @@
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <hideEmptyPackages ProjectPane="false" />
       <autoscrollFromSource ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="BH-J26" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BH-J26" type="462c0819:PsiDirectoryNode" />
+              <item name="mine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mine" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="BH-J26" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BH-J26" type="462c0819:PsiDirectoryNode" />
+              <item name="mine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mine" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="BH-J26" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BH-J26" type="462c0819:PsiDirectoryNode" />
+              <item name="mine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mine" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="by" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="BH-J26" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BH-J26" type="462c0819:PsiDirectoryNode" />
+              <item name="mine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mine" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="by" type="462c0819:PsiDirectoryNode" />
               <item name="belhard" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="BH-J26" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BH-J26" type="462c0819:PsiDirectoryNode" />
+              <item name="mine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mine" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="by" type="462c0819:PsiDirectoryNode" />
               <item name="belhard" type="462c0819:PsiDirectoryNode" />
               <item name="j26" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="BH-J26" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BH-J26" type="462c0819:PsiDirectoryNode" />
+              <item name="mine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mine" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="by" type="462c0819:PsiDirectoryNode" />
               <item name="belhard" type="462c0819:PsiDirectoryNode" />
@@ -235,94 +167,47 @@
               <item name="homeworks" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="BH-J26" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BH-J26" type="462c0819:PsiDirectoryNode" />
+              <item name="mine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mine" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="by" type="462c0819:PsiDirectoryNode" />
+              <item name="belhard" type="462c0819:PsiDirectoryNode" />
+              <item name="j26" type="462c0819:PsiDirectoryNode" />
+              <item name="homeworks" type="462c0819:PsiDirectoryNode" />
+              <item name="hw7" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mine" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="by" type="462c0819:PsiDirectoryNode" />
               <item name="belhard" type="462c0819:PsiDirectoryNode" />
               <item name="j26" type="462c0819:PsiDirectoryNode" />
               <item name="lessons" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BH-J26" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BH-J26" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="by" type="462c0819:PsiDirectoryNode" />
-              <item name="belhard" type="462c0819:PsiDirectoryNode" />
-              <item name="j26" type="462c0819:PsiDirectoryNode" />
-              <item name="lessons" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson04" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BH-J26" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BH-J26" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="by" type="462c0819:PsiDirectoryNode" />
-              <item name="belhard" type="462c0819:PsiDirectoryNode" />
-              <item name="j26" type="462c0819:PsiDirectoryNode" />
-              <item name="lessons" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson04" type="462c0819:PsiDirectoryNode" />
-              <item name="entities" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BH-J26" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BH-J26" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="by" type="462c0819:PsiDirectoryNode" />
-              <item name="belhard" type="462c0819:PsiDirectoryNode" />
-              <item name="j26" type="462c0819:PsiDirectoryNode" />
-              <item name="lessons" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson07" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BH-J26" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="BH-J26" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 11 &gt;" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="BH-J26" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 11 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="java.base" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BH-J26" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 11 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="java.base" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BH-J26" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 11 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="java.base" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1607020715352" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1607350209469" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../bh-ppl" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="by.belhard.j26.homeworks.hw7.task1" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="by.belhard.j26.homeworks.hw2" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mkolbun\IdeaProjects\BH-J26\mine\src\by\belhard\j26\homeworks\hw7" />
+      <recent name="C:\Users\mkolbun\IdeaProjects\BH-J26\mine\src\by\belhard\j26\homeworks\hw6" />
       <recent name="C:\Users\Rozenberg\IdeaProjects\BH\BH-J26\src\by\belhard\j26\homeworks\hw5" />
       <recent name="C:\Users\Rozenberg\IdeaProjects\BH\BH-J26\src\by\belhard\j26\homeworks" />
       <recent name="C:\Users\Rozenberg\IdeaProjects\BH\BH-J26\src\by\belhard\j26\lessons" />
@@ -340,13 +225,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ArrayListExamples">
-    <configuration name="ArrayListExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.belhard.j26.lessons.lesson07.ArrayListExamples" />
+  <component name="RunManager" selected="Application.Task5">
+    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.belhard.j26.homeworks.hw7.task2.Task2" />
       <module name="BH-J26" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="by.belhard.j26.lessons.lesson07.*" />
+          <option name="PATTERN" value="by.belhard.j26.homeworks.hw7.task2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -354,12 +239,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InheritanceExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.belhard.j26.lessons.lesson07.InheritanceExample" />
+    <configuration name="Task3 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.belhard.j26.homeworks.hw7.task3.Task3" />
       <module name="BH-J26" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="by.belhard.j26.lessons.lesson07.*" />
+          <option name="PATTERN" value="by.belhard.j26.homeworks.hw7.task3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -367,12 +252,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringFormatExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.belhard.j26.lessons.lesson06.StringFormatExample" />
+    <configuration name="Task3a" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.belhard.j26.homeworks.hw7.task3.Task3a" />
       <module name="BH-J26" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="by.belhard.j26.lessons.lesson06.*" />
+          <option name="PATTERN" value="by.belhard.j26.homeworks.hw7.task3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -380,12 +265,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.belhard.j26.homeworks.hw5.task1.Task1" />
+    <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.belhard.j26.homeworks.hw7.task4.Task4" />
       <module name="BH-J26" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="by.belhard.j26.homeworks.hw5.task1.*" />
+          <option name="PATTERN" value="by.belhard.j26.homeworks.hw7.task4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -393,12 +278,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.belhard.j26.homeworks.hw5.task3.Task3" />
+    <configuration name="Task5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.belhard.j26.homeworks.hw7.task5.Task5" />
       <module name="BH-J26" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="by.belhard.j26.homeworks.hw5.task3.*" />
+          <option name="PATTERN" value="by.belhard.j26.homeworks.hw7.task5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -408,11 +293,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ArrayListExamples" />
-        <item itemvalue="Application.InheritanceExample" />
-        <item itemvalue="Application.StringFormatExample" />
-        <item itemvalue="Application.Task1" />
-        <item itemvalue="Application.Task3" />
+        <item itemvalue="Application.Task5" />
+        <item itemvalue="Application.Task4" />
+        <item itemvalue="Application.Task3a" />
+        <item itemvalue="Application.Task3 (1)" />
+        <item itemvalue="Application.Task2" />
       </list>
     </recent_temporary>
   </component>
@@ -432,6 +317,8 @@
       <workItem from="1606146436656" duration="22883000" />
       <workItem from="1606749513397" duration="11488000" />
       <workItem from="1607007881574" duration="11569000" />
+      <workItem from="1607088365611" duration="816000" />
+      <workItem from="1607342081847" duration="5395000" />
     </task>
     <task id="LOCAL-00001" summary="4th lesson">
       <created>1606156803705</created>
@@ -461,17 +348,24 @@
       <option name="project" value="LOCAL" />
       <updated>1606761291021</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="6th hw">
+      <created>1607089142522</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1607089142522</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45710000" />
+    <option name="totallyTimeSpent" value="51921000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.119463086" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12153518" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -480,7 +374,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34182304" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3416407" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3994638" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -488,7 +382,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3297587" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3297587" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32917964" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3297587" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -580,367 +474,245 @@
     <MESSAGE value="4th lesson" />
     <MESSAGE value="55th lesson" />
     <MESSAGE value="6th lesson" />
-    <option name="LAST_COMMIT_MESSAGE" value="6th lesson" />
+    <MESSAGE value="6th hw" />
+    <option name="LAST_COMMIT_MESSAGE" value="6th hw" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.base/java/util/Random.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/belhard/j26/homeworks/hw5/task3/Task3.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/belhard/j26/homeworks/hw5/task3/Order.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/belhard/j26/homeworks/hw5/task2/Task2.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/belhard/j26/homeworks/hw5/task2/Player.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.base/java/lang/Math.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.sql/java/sql/Date.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.base/java/time/Month.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/belhard/j26/homeworks/hw5/task1/Task1.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/belhard/j26/lessons/lesson06/StringFormatExample.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/belhard/j26/homeworks/hw5/task1/TempCounter.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/belhard/j26/lessons/lesson04/entities/Person.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.base/java/lang/StringLatin1.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.base/java/lang/String.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.base/java/lang/Object.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.base/java/util/Objects.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.base/java/util/Arrays.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/belhard/j26/lessons/lesson07/Worker.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/belhard/j26/lessons/lesson07/Manager.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/belhard/j26/lessons/lesson07/Person.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/belhard/j26/lessons/lesson07/Workable.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/belhard/j26/lessons/lesson07/InheritanceExample.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.base/java/util/List.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/belhard/j26/lessons/lesson07/ArrayListExamples.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/belhard/j26/homeworks/hw6/task1/Task1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+        <state relative-caret-position="187">
+          <caret line="11" column="42" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.base/java/util/DualPivotQuicksort.java">
+    <entry file="file://$PROJECT_DIR$/src/by/belhard/j26/homeworks/hw6/task1/Calculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="104" column="8" selection-start-line="104" selection-start-column="8" selection-end-line="104" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/BH-J26/by/belhard/j26/homeworks/hw3/Task1.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="24" column="16" lean-forward="true" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
+        <state relative-caret-position="272">
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
           <folding>
-            <element signature="e#0#1022#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/belhard/j26/homeworks/hw3/Task3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="24" column="33" lean-forward="true" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/belhard/j26/homeworks/hw3/Task2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="41" column="46" selection-start-line="41" selection-start-column="46" selection-end-line="41" selection-end-column="46" />
-          <folding>
-            <element signature="e#39#70#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/belhard/j26/homeworks/hw3/Task1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="569">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/belhard/j26/lessons/lesson05/StringExample.java" />
-    <entry file="file://$PROJECT_DIR$/src/by/belhard/j26/homeworks/hw4/ArraysCalculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="41" column="23" lean-forward="true" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/belhard/j26/homeworks/hw4/Task3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="39" column="19" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/belhard/j26/lessons/lesson04/entities/Country.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="5" column="12" lean-forward="true" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/belhard/j26/lessons/lesson04/entities/PackagePrivateExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/belhard/j26/lessons/lesson04/PersonExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="736">
-          <caret line="69" lean-forward="true" selection-start-line="69" selection-end-line="69" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/belhard/j26/lessons/lesson05/Lesson05Example.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/belhard/j26/lessons/lesson04/entities/Sex.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="e#193#194#0" expanded="true" />
-            <element signature="e#223#224#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/belhard/j26/lessons/lesson05/StaticExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.base/java/util/Random.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="327" column="15" selection-start-line="327" selection-start-column="15" selection-end-line="327" selection-end-column="15" />
-          <folding>
-            <element signature="e#11995#11996#0" expanded="true" />
-            <element signature="e#12026#12027#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/belhard/j26/homeworks/hw5/task3/Task3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-          <folding>
-            <element signature="e#290#291#0" expanded="true" />
-            <element signature="e#326#327#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/belhard/j26/homeworks/hw5/task3/Order.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="19" column="30" lean-forward="true" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
-          <folding>
-            <element signature="e#424#425#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/belhard/j26/homeworks/hw5/task2/Task2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="36" lean-forward="true" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/belhard/j26/homeworks/hw5/task2/Player.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-          <folding>
-            <element signature="e#758#759#0" expanded="true" />
-            <element signature="e#837#838#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.base/java/lang/Math.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="1137" column="40" selection-start-line="1137" selection-start-column="40" selection-end-line="1137" selection-end-column="40" />
-          <folding>
-            <element signature="e#17923#17924#0" expanded="true" />
-            <element signature="e#18006#18007#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.sql/java/sql/Date.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="58" column="28" lean-forward="true" selection-start-line="58" selection-start-column="28" selection-end-line="58" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.base/java/time/Month.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="105" column="14" selection-start-line="105" selection-start-column="14" selection-end-line="105" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/belhard/j26/homeworks/hw5/task1/Task1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="880">
-          <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/belhard/j26/lessons/lesson06/StringFormatExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="349">
-          <caret line="20" column="49" lean-forward="true" selection-start-line="20" selection-start-column="49" selection-end-line="20" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/belhard/j26/homeworks/hw5/task1/TempCounter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/belhard/j26/lessons/lesson04/entities/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.base/java/lang/StringLatin1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="95" column="36" selection-start-line="95" selection-start-column="36" selection-end-line="95" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.base/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="1008" column="51" lean-forward="true" selection-start-line="1008" selection-start-column="51" selection-end-line="1008" selection-end-column="51" />
-          <folding>
-            <element signature="e#111947#111948#0" expanded="true" />
-            <element signature="e#111974#111975#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.base/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="108" column="32" lean-forward="true" selection-start-line="108" selection-start-column="32" selection-end-line="108" selection-end-column="32" />
-          <folding>
-            <element signature="e#5877#5878#0" expanded="true" />
-            <element signature="e#5913#5914#0" expanded="true" />
-            <element signature="e#10225#10226#0" expanded="true" />
-            <element signature="e#10308#10309#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.base/java/util/Objects.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="145" column="29" selection-start-line="145" selection-start-column="29" selection-end-line="145" selection-end-column="29" />
-          <folding>
-            <element signature="e#2486#2487#0" expanded="true" />
-            <element signature="e#2547#2548#0" expanded="true" />
-            <element signature="e#4990#4991#0" expanded="true" />
-            <element signature="e#5036#5037#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.base/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="4678" column="22" lean-forward="true" selection-start-line="4678" selection-start-column="22" selection-end-line="4678" selection-end-column="22" />
-          <folding>
-            <element signature="e#5126#5127#0" expanded="true" />
-            <element signature="e#5197#5198#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/belhard/j26/lessons/lesson07/Worker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
-          <folding>
-            <element signature="e#286#287#0" expanded="true" />
-            <element signature="e#352#353#0" expanded="true" />
-            <element signature="e#196#197#0" expanded="true" />
-            <element signature="e#223#224#0" expanded="true" />
+            <element signature="e#112#113#0" expanded="true" />
+            <element signature="e#128#129#0" expanded="true" />
+            <element signature="e#178#179#0" expanded="true" />
+            <element signature="e#197#198#0" expanded="true" />
+            <element signature="e#244#245#0" expanded="true" />
             <element signature="e#263#264#0" expanded="true" />
-            <element signature="e#295#296#0" expanded="true" />
-            <element signature="e#935#936#0" expanded="true" />
-            <element signature="e#976#977#0" expanded="true" />
+            <element signature="e#304#305#0" expanded="true" />
+            <element signature="e#323#324#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/belhard/j26/lessons/lesson07/Manager.java">
+    <entry file="file://$PROJECT_DIR$/src/by/belhard/j26/homeworks/hw6/task2/MultiplicationTable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+        <state relative-caret-position="221">
+          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/belhard/j26/homeworks/hw6/task3/Task3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="3" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/belhard/j26/homeworks/hw6/task3/StringStorage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/belhard/j26/homeworks/hw7/task1/Book.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="32" lean-forward="true" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
           <folding>
-            <element signature="e#121#122#0" expanded="true" />
-            <element signature="e#157#158#0" expanded="true" />
-            <element signature="e#211#212#0" expanded="true" />
-            <element signature="e#245#246#0" expanded="true" />
-            <element signature="e#296#297#0" expanded="true" />
-            <element signature="e#342#343#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/belhard/j26/lessons/lesson07/Person.java">
+    <entry file="file://$PROJECT_DIR$/src/by/belhard/j26/homeworks/hw7/task1/Author.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="25" lean-forward="true" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        <state relative-caret-position="408">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/belhard/j26/homeworks/hw7/task1/BookFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/belhard/j26/homeworks/hw7/task1/Cartoteka.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
           <folding>
-            <element signature="e#362#363#0" expanded="true" />
-            <element signature="e#388#389#0" expanded="true" />
-            <element signature="e#419#420#0" expanded="true" />
-            <element signature="e#446#447#0" expanded="true" />
-            <element signature="e#486#487#0" expanded="true" />
-            <element signature="e#518#519#0" expanded="true" />
-            <element signature="e#545#546#0" expanded="true" />
-            <element signature="e#571#572#0" expanded="true" />
-            <element signature="e#883#884#0" expanded="true" />
-            <element signature="e#929#930#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/belhard/j26/lessons/lesson07/Workable.java">
+    <entry file="file://$PROJECT_DIR$/src/by/belhard/j26/homeworks/hw7/task1/Task1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="26" lean-forward="true" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        <state relative-caret-position="425">
+          <caret line="25" column="38" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
           <folding>
-            <element signature="e#149#150#0" expanded="true" />
-            <element signature="e#185#186#0" expanded="true" />
-            <element signature="e#352#353#0" expanded="true" />
-            <element signature="e#388#389#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/belhard/j26/lessons/lesson07/InheritanceExample.java">
+    <entry file="file://$PROJECT_DIR$/src/by/belhard/j26/homeworks/hw7/task2/pets/Pet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="36" column="26" lean-forward="true" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.base/java/util/List.java">
+    <entry file="file://$PROJECT_DIR$/src/by/belhard/j26/homeworks/hw7/task2/pets/AbstractPet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="556">
-          <caret line="169" column="31" selection-start-line="169" selection-start-column="31" selection-end-line="169" selection-end-column="31" />
+        <state relative-caret-position="272">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/belhard/j26/lessons/lesson07/ArrayListExamples.java">
+    <entry file="file://$PROJECT_DIR$/src/by/belhard/j26/homeworks/hw7/task2/pets/Cat.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/belhard/j26/homeworks/hw7/task2/pets/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/belhard/j26/homeworks/hw7/task2/Task2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/belhard/j26/homeworks/hw7/task2/Master.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="543">
+          <caret line="38" column="32" selection-start-line="38" selection-start-column="32" selection-end-line="38" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/belhard/j26/homeworks/hw7/task2/pets/Fish.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/belhard/j26/homeworks/hw7/task3/shapes/Figure.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/belhard/j26/homeworks/hw7/task3/CalculationUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/belhard/j26/homeworks/hw7/task3/shapes/Square.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/belhard/j26/homeworks/hw7/task3/shapes/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/belhard/j26/homeworks/hw7/task3/shapes/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="26" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/belhard/j26/homeworks/hw7/task3/Task3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/belhard/j26/homeworks/hw7/task3/Task3a.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="78" selection-start-line="20" selection-start-column="78" selection-end-line="20" selection-end-column="78" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/belhard/j26/homeworks/hw7/task4/Task4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/belhard/j26/homeworks/hw7/task4/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="48" selection-start-line="21" selection-start-column="48" selection-end-line="21" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/belhard/j26/homeworks/hw7/task5/Task5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="30" column="22" lean-forward="true" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
