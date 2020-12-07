@@ -4,28 +4,34 @@ import by.belhard.j26.homeworks.hw7.task2.pets.*;
 
 public class Task2 {
 
-	public static void main(String[] args) {
+    public static void main(String[] args) {
 
-		Pet dog = new Dog("Sharik");
-		Pet cat = new Cat("Murka");
-		Pet fish = new Fish("Blob");
+		/*Dog dog = new Dog();
+		Cat cat = new Cat();
 
-		Master master1 = new Master("Vasily", dog);
-		Master master2 = new Master("Tatyana", cat);
-		Master master3 = new Master("Igor");
+		Master master = new Master();*/
 
-		System.out.println(master1);
-		System.out.println(master2);
-		System.out.println(master3);
-		System.out.println();
+        Pet dog = new Dog("Sharik");
+        Pet cat = new Cat("Murka");
+        Pet fish = new Fish("Blob");
+        Pet rhino = new Rhino("noname");
 
-		master1.play();
-		master2.play();
-		master3.play();
-		System.out.println();
+        Master master1 = new Master("Vasily", dog);
+        Master master2 = new Master("Tatyana", cat);
+        Master master3 = new Master("Igor");
 
-		master1.play(master2.getPet());
-		master3.play(fish);
-	}
+        System.out.println(master1);
+        System.out.println(master2);
+        System.out.println(master3);
+        System.out.println();
+
+        master1.play();
+        master2.play();
+        master3.play();
+        System.out.println();
+
+        master1.play(master2.getPet());
+        master3.play(fish);
+    }
 
 }

@@ -2,7 +2,7 @@ package by.belhard.j26.homeworks.hw7.task2.pets;
 
 public abstract class AbstractPet implements Pet {
 
-	private String name;
+	private final String name;
 
 	public AbstractPet(String name) {
 

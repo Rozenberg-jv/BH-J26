@@ -14,7 +14,7 @@ public class Author {
 
 	public Author(String firstname, String lastname, int age) {
 
-		if (firstname == null || firstname.isEmpty())
+		if (firstname == null || firstname.trim().isEmpty())
 			firstname = DEFAULT_FIRSTNAME;
 		if (lastname == null || lastname.isEmpty())
 			lastname = DEFAULT_LASTNAME;
@@ -24,21 +24,6 @@ public class Author {
 		this.firstname = firstname;
 		this.lastname = lastname;
 		this.age = age;
-	}
-
-	public String getFirstname() {
-
-		return firstname;
-	}
-
-	public String getLastname() {
-
-		return lastname;
-	}
-
-	public int getAge() {
-
-		return age;
 	}
 
 	@Override

@@ -4,38 +4,41 @@ import by.belhard.j26.homeworks.hw7.task2.pets.Pet;
 
 public class Master {
 
-	private String name;
-	private Pet pet;
+    private String name;
+    private Pet pet;
 
-	public Master(String name, Pet pet) {
+    public Master(String name, Pet pet) {
 
-		this.name = name;
-		this.pet = pet;
-	}
+        this.name = name;
+        this.pet = pet;
+    }
 
-	public Master(String name) {
+    public Master(String name) {
 
-		this(name, null);
-	}
+        this(name, null);
+    }
 
-	public void play() {
+    // метод для игры со своим питомцем
+    public void play() {
 
-		play(this.pet);
-	}
+        play(this.pet);
+    }
 
-	public void play(Pet pet) {
+    // метод для игры с любым питомцем
+    public void play(Pet pet) {
 
-		System.out.println(name + " is playing with " + (pet != null ? pet : "nothing"));
-	}
+        System.out.println(this.name + " is playing with " + (pet != null ? pet : "nothing"));
+        if (pet != null) pet.play();
+    }
 
-	public Pet getPet() {
+    public Pet getPet() {
 
-		return pet;
-	}
+        return pet;
+    }
 
-	@Override
-	public String toString() {
+    @Override
+    public String toString() {
 
-		return String.format("%s has %s", name, pet != null ? "pet " + pet : "no pet");
-	}
+        return String.format("%s has %s", name, pet != null ? "pet " + pet : "no pet");
+    }
 }

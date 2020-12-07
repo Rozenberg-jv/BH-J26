@@ -24,6 +24,9 @@ public class Task1 {
 
 		List<Book> booksByAuthor = Cartoteka.getBooksByAuthor(books, "Vasily", "Ivanov");
 		System.out.println(booksByAuthor);
+
+		/*Cartoteka cartoteka = new Cartoteka();
+		List<Book> booksByAuthorNonStatic = cartoteka.getBooksByAuthorNonStatic(books, "Vasily", "Ivanov");*/
 	}
 
 }
